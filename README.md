@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hannah Thankam Alex. Welcome to my Github.
+# Hi there 👋 I'm Hannah. Welcome to my Github.
 
 <p style="font-size:14px; line-height:1.6">
 🎓 I am a final year B.Tech CSE Student @ PES University.<br>
