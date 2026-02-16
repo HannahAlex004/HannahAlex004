@@ -2,7 +2,6 @@
 
 <p style="font-size:14px; line-height:1.6">
 🎓 I am a final year B.Tech CSE Student @ PES University.<br>
-🧑‍🏫 TA for Data Structures and Advanced Data Analytics
 </p>
 
 ---
@@ -23,7 +22,8 @@
 
 | Role                      | Organization & Duration                                                                 |
 |---------------------------|------------------------------------------------------------------------------------------|
-| Teaching Assistant <br> _Conduct labs & evaluate student work in DSA & Data Analytics_ | Dept. of CSE, PES University  <br> *Aug 2025 – Present*                                  |
+| R&D Intern | Schneider Electric  <br> *Jan 2026 – Present*                                  |
+| Teaching Assistant <br> _Conduct labs & evaluate student work in DSA & Data Analytics_ | Dept. of CSE, PES University  <br> *Aug 2025 – December 2025*                                  |
 | Summer Research Intern <br> _Built a secure dApp using Blockchain & Zero Trust_     | CCNCS, PES University  <br> *June 2024 – July 2024*             |
 
 ---
